@@ -2,4 +2,4 @@
 
 ## A landing page with background image slider.
 
-[Live Demo](https://scintillating-sunburst-5f02cc.netlify.app/)
+[Live Demo](https://scusate.github.io/demos/backgroundSlider)
